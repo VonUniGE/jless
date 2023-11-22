@@ -1,5 +1,17 @@
 ![jless logo and mascot](https://raw.githubusercontent.com/PaulJuliusMartinez/jless/master/logo/text-logo-with-mascot.svg)
 
+> [!WARNING]
+>
+> This is not the official repository use [PaulJuliusMartinez/jless](https://github.com/PaulJuliusMartinez/jless)
+>
+> Applied PR:
+> - [Update Arch Linux package URL in README.md](https://github.com/PaulJuliusMartinez/jless/pull/139) 
+> - [Replace isatty with builtin IsTerminal](https://github.com/PaulJuliusMartinez/jless/pull/136)
+> - [README.md: add openSUSE Tumbleweed](https://github.com/PaulJuliusMartinez/jless/pull/115)
+> - [Add installation instructions for Fedora Linux](https://github.com/PaulJuliusMartinez/jless/pull/123)
+
+
+
 [`jless`](https://jless.io) is a command-line JSON viewer. Use it as a
 replacement for whatever combination of `less`, `jq`, `cat` and your
 editor you currently use for viewing JSON files. It is written in Rust
